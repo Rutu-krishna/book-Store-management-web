@@ -23,3 +23,29 @@ An interactive and user-friendly Bookstore Management System that allows users t
 - Manage users and book inventory
 
 
+folder srtructure
+BookStore-Management/
+│
+├── 📁 CSS/
+│   ├── admin_style.css
+│   └── style.css
+│
+├── 📁 images/
+│   ├── 📁 books/
+│   ├── 📁 cpp_images/
+│   └── other_photos/
+│
+├── 📁 JS/
+│   ├── admin_script.js
+│   └── script.js
+│
+├── 📁 uploaded_images/
+│   └── (User-uploaded book cover images and other media)
+│
+├── index.html
+├── admin_panel.html
+├── user_dashboard.html
+├── login.html
+├── signup.html
+├── ...
+Note:You just have to carefully add images 
